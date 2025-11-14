@@ -216,6 +216,6 @@ This project is for educational purposes.
 
 ## Resources
 
-- [A2A SDK Documentation](https://github.com/a2a-protocol)
-- [OpenAI Agents Framework](https://github.com/openai/agents)
-- [Strands Agents](https://github.com/modelcontextprotocol)
+- [A2A SDK Documentation](https://github.com/a2aproject/a2a-python)
+- [OpenAI Agents Framework](https://openai.github.io/openai-agents-python/)
+- [Strands Agents](https://github.com/strands-agents/sdk-python)
